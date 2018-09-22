@@ -1,0 +1,8 @@
+
+    Lista de amigos
+    --------------
+    1 - Simone Cardoso
+    2 - Maria Antonia
+    3 - Fernanda Chaves
+    4 - Josué Gomes
+    5 - Andressa Lins

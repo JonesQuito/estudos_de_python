@@ -1,0 +1,1 @@
+Já criei ficheiros a partir do python para saber onde eles são guardados e colocar lá o ficheiro que quero, e mesmo assim não funciona. Apenas dá quando copio o conteúdo que quero para o ficheiro que crio com o python, mas dá muito trabalho.
